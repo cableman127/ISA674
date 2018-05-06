@@ -1,0 +1,1785 @@
+[**] [1:1000434256:1] Telnet BusyBox WGET Mirai Malware!" [**]
+[Priority: 0] 
+01/01--3:-33:-58.465255 192.168.2.204:23 -> 192.168.2.100:44507
+TCP TTL:64 TOS:0x10 ID:32615 IpLen:20 DgmLen:284 DF
+***AP*** Seq: 0xA7BC6C2B  Ack: 0x5EF860C5  Win: 0x479  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1244516 1903860 
+
+[**] [1:1000434256:1] Telnet BusyBox WGET Mirai Malware!" [**]
+[Priority: 0] 
+01/01--3:-33:-58.506013 192.168.2.204:23 -> 192.168.2.100:44507
+TCP TTL:64 TOS:0x10 ID:32616 IpLen:20 DgmLen:487 DF
+***AP*** Seq: 0xA7BC6D13  Ack: 0x5EF860C5  Win: 0x479  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1244557 1903901 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-20.249092 192.168.2.204:50216 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:13977 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xD6B8F8C5  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1822300 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-15.000063 192.168.2.204:40936 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:20690 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7FD7B039  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1827051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-10.000395 192.168.2.204:35874 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:57271 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x97C02BC4  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1832051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-5.000297 192.168.2.204:59602 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:21661 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x828C5366  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1837051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:00.000062 192.168.2.204:54970 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:28009 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xDBBB76EA  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1842051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-55.001566 192.168.2.204:50154 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:62395 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xD136DCB6  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1847053 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-50.000051 192.168.2.204:45304 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:54291 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xF1449680  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1852051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-45.000877 192.168.2.204:37962 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:63948 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3C72AFD0  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1857052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-40.000862 192.168.2.204:34742 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:31439 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x46DB136B  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1862052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-35.000895 192.168.2.204:58706 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:4159 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7D096D13  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1867052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-30.000740 192.168.2.204:49506 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:6081 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x47758775  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1872052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-25.000061 192.168.2.204:45666 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:11916 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE7698AB7  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1877051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-20.000833 192.168.2.204:41982 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:4735 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5311A5BB  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1882052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-15.000452 192.168.2.204:36896 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:56867 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3E1B1568  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1887051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-10.000238 192.168.2.204:60252 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:38798 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1D30495D  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1892051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-5.000573 192.168.2.204:55922 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:32900 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xEE2472DF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1897051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:00.000575 192.168.2.204:50858 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:61858 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5C49F446  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1902052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-55.000581 192.168.2.204:44292 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:33422 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xCD139BE2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1907052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-50.000244 192.168.2.204:39960 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:48646 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4C1592F5  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1912051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-45.000134 192.168.2.204:35094 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:52749 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5B148E76  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1917051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-40.001340 192.168.2.204:59178 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:42732 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x2BE7F2E8  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1922052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-35.001146 192.168.2.204:54704 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:30563 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x385210EF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1927052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-30.000683 192.168.2.204:50718 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:60035 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xC5A49190  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1932051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-25.001087 192.168.2.204:46746 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:38640 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xA928186C  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1937052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-20.000187 192.168.2.204:43340 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:51669 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4FFB6BF6  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1942051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-15.000482 192.168.2.204:38322 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:17307 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6886F630  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1947051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-10.000677 192.168.2.204:60826 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:46806 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1F427FE2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1952052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-5.000558 192.168.2.204:55176 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:22001 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7B7C894A  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1957051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:00.000405 192.168.2.204:49020 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:13413 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE42DC426  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1962051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-55.000801 192.168.2.204:43666 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:63246 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3961F4C2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.000501 192.168.2.204:37476 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:23615 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xF31E4B6C  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1972051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-45.001180 192.168.2.204:57448 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:44013 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xECC88131  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1977052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-40.000696 192.168.2.204:50288 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:55874 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x8ADAE426  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1982052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.000481 192.168.2.204:44578 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:44627 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1886FFB8  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1987051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-30.000170 192.168.2.204:37690 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:60060 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1ED08FEF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1992051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-25.000870 192.168.2.204:58168 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:47223 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x161FC08B  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1997052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.001083 192.168.2.204:51692 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:18857 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xC70AC52D  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 2002052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-45.763180 192.168.2.204:23 -> 192.168.2.201:41440
+TCP TTL:64 TOS:0x10 ID:53267 IpLen:20 DgmLen:69 DF
+***AP*** Seq: 0xDB838164  Ack: 0x54F8A7E4  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1137814 1516981 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-45.795066 192.168.2.204:23 -> 192.168.2.201:41444
+TCP TTL:64 TOS:0x10 ID:54285 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x8C388389  Ack: 0x8F2298D5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1137846 1514250 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-43.894018 192.168.2.204:23 -> 192.168.2.201:41450
+TCP TTL:64 TOS:0x10 ID:64683 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x8C37A9C9  Ack: 0xA5332EBC  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1139945 1519113 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-30.843316 192.168.2.204:23 -> 192.168.2.201:41550
+TCP TTL:64 TOS:0x10 ID:50977 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x8D23BA3B  Ack: 0xED161A1F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1152894 1528730 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-29.841659 192.168.2.204:23 -> 192.168.2.201:41606
+TCP TTL:64 TOS:0x10 ID:21064 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x4FD6C452  Ack: 0xD346EE42  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1153893 1530812 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-29.845069 192.168.2.204:23 -> 192.168.2.201:41566
+TCP TTL:64 TOS:0x10 ID:63192 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xBDB3749B  Ack: 0x8358DFBA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1153896 1530820 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-13.372479 192.168.2.204:23 -> 192.168.2.201:41694
+TCP TTL:64 TOS:0x10 ID:3112 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x3A47BD28  Ack: 0x3A51399F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1169424 1548590 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-13.414599 192.168.2.204:23 -> 192.168.2.201:41688
+TCP TTL:64 TOS:0x10 ID:6724 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x818CAAFC  Ack: 0x21D32C7D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1169466 1545797 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-11.125680 192.168.2.204:23 -> 192.168.2.201:41700
+TCP TTL:64 TOS:0x10 ID:13315 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xD62E426  Ack: 0x47A4693A  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1171177 1546779 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-58.637091 192.168.2.204:23 -> 192.168.2.201:41726
+TCP TTL:64 TOS:0x10 ID:52785 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x220922F0  Ack: 0x4CA6C6C3  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1184688 1560435 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-58.641408 192.168.2.204:23 -> 192.168.2.201:41732
+TCP TTL:64 TOS:0x10 ID:17516 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x8292B5FD  Ack: 0x44809BB5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1184692 1560437 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-58.675790 192.168.2.204:23 -> 192.168.2.201:41722
+TCP TTL:64 TOS:0x10 ID:37912 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x21F880C9  Ack: 0xB8E41334  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1184727 1560472 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-42.616736 192.168.2.204:23 -> 192.168.2.201:41948
+TCP TTL:64 TOS:0x10 ID:38743 IpLen:20 DgmLen:69 DF
+***AP*** Seq: 0x6C13D40E  Ack: 0x5DED83C0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1200668 1579836 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-42.672657 192.168.2.204:23 -> 192.168.2.201:41950
+TCP TTL:64 TOS:0x10 ID:9000 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xD4B5683B  Ack: 0x5462D6C6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1200724 1579891 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-42.787349 192.168.2.204:23 -> 192.168.2.201:41878
+TCP TTL:64 TOS:0x10 ID:62054 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x6ECBDC61  Ack: 0x1BAF5F6B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1200838 1580006 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-27.747128 192.168.2.204:23 -> 192.168.2.201:41986
+TCP TTL:64 TOS:0x10 ID:28518 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xE815EE3B  Ack: 0x211D0AF6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1215798 1594966 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-26.513496 192.168.2.204:23 -> 192.168.2.201:41970
+TCP TTL:64 TOS:0x10 ID:58043 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x335A97F9  Ack: 0x55F59A50  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1216565 1593219 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-26.523422 192.168.2.204:23 -> 192.168.2.201:41966
+TCP TTL:64 TOS:0x10 ID:56065 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x9C5BAFB1  Ack: 0x2AC7DB3D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1216575 1595741 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-12.996624 192.168.2.204:23 -> 192.168.2.201:42082
+TCP TTL:64 TOS:0x10 ID:12403 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x1D769517  Ack: 0xA7B20F10  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1231048 1606321 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-11.406346 192.168.2.204:23 -> 192.168.2.202:57914
+TCP TTL:64 TOS:0x10 ID:47482 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x182C20CA  Ack: 0x4B3F8BBC  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1231458 1484296 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-11.522072 192.168.2.204:23 -> 192.168.2.201:42124
+TCP TTL:64 TOS:0x10 ID:12739 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xDF3B83FD  Ack: 0xB6C4A7C6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1231573 1608435 
+
+[**] [1:1000434256:1] Telnet BusyBox WGET Mirai Malware!" [**]
+[Priority: 0] 
+01/01--3:-33:-58.465255 192.168.2.204:23 -> 192.168.2.100:44507
+TCP TTL:64 TOS:0x10 ID:32615 IpLen:20 DgmLen:284 DF
+***AP*** Seq: 0xA7BC6C2B  Ack: 0x5EF860C5  Win: 0x479  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1244516 1903860 
+
+[**] [1:1000434256:1] Telnet BusyBox WGET Mirai Malware!" [**]
+[Priority: 0] 
+01/01--3:-33:-58.506013 192.168.2.204:23 -> 192.168.2.100:44507
+TCP TTL:64 TOS:0x10 ID:32616 IpLen:20 DgmLen:487 DF
+***AP*** Seq: 0xA7BC6D13  Ack: 0x5EF860C5  Win: 0x479  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1244557 1903901 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-57.914820 192.168.2.204:23 -> 192.168.2.202:58090
+TCP TTL:64 TOS:0x10 ID:35543 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x85D663BC  Ack: 0x748ED755  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1245966 1496116 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-57.915890 192.168.2.204:23 -> 192.168.2.202:58084
+TCP TTL:64 TOS:0x10 ID:10757 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x2A49C0EB  Ack: 0xA1C3FC4D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1245967 1496116 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-57.965325 192.168.2.204:23 -> 192.168.2.201:42292
+TCP TTL:64 TOS:0x10 ID:30285 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xDB769CCF  Ack: 0xAC3C8A20  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1246016 1622496 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-55.384800 192.168.2.203:23 -> 192.168.2.204:39544
+TCP TTL:64 TOS:0x10 ID:36082 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x77D462DB  Ack: 0xBF3455E  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1374563 1247435 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-53.222805 192.168.2.203:23 -> 192.168.2.204:39554
+TCP TTL:64 TOS:0x10 ID:32773 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xBB668D8C  Ack: 0x81E7F383  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1376401 1249273 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-53.245432 192.168.2.203:23 -> 192.168.2.204:39552
+TCP TTL:64 TOS:0x10 ID:58225 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x3B31208  Ack: 0x1DBA45E0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1376424 1249296 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-40.715400 192.168.2.203:23 -> 192.168.2.204:39612
+TCP TTL:64 TOS:0x10 ID:26304 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x9FA4270  Ack: 0xFBC3939E  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1389893 1259578 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-40.742398 192.168.2.203:23 -> 192.168.2.204:39592
+TCP TTL:64 TOS:0x10 ID:17374 IpLen:20 DgmLen:69 DF
+***AP*** Seq: 0xBF565EFC  Ack: 0x1BEE4156  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1389921 1262791 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-39.209366 192.168.2.203:23 -> 192.168.2.204:39582
+TCP TTL:64 TOS:0x10 ID:35125 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x91569E95  Ack: 0xAE8185ED  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1390388 1260860 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-25.076070 192.168.2.203:23 -> 192.168.2.204:39700
+TCP TTL:64 TOS:0x10 ID:63228 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x839DAC41  Ack: 0xE6918586  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1404254 1273546 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-25.357889 192.168.2.203:23 -> 192.168.2.204:39708
+TCP TTL:64 TOS:0x10 ID:40803 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x78DC2F4  Ack: 0xEE9B76EA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1404536 1273585 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-25.575684 192.168.2.203:23 -> 192.168.2.204:39676
+TCP TTL:64 TOS:0x10 ID:8730 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xB08F6D7A  Ack: 0x98B3204F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1404754 1273730 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-10.355295 192.168.2.203:23 -> 192.168.2.204:39802
+TCP TTL:64 TOS:0x10 ID:28465 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x2723FE54  Ack: 0xF171822B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1419534 1290012 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-10.382465 192.168.2.203:23 -> 192.168.2.204:39810
+TCP TTL:64 TOS:0x10 ID:54774 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xF4F47CF  Ack: 0x6182A6D5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1419561 1290067 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-10.604304 192.168.2.203:23 -> 192.168.2.204:39852
+TCP TTL:64 TOS:0x10 ID:36703 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x9543113D  Ack: 0x835E99A1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1419782 1290284 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-20.249092 192.168.2.204:50216 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:13977 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xD6B8F8C5  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1822300 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-15.000063 192.168.2.204:40936 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:20690 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7FD7B039  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1827051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-10.000395 192.168.2.204:35874 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:57271 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x97C02BC4  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1832051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-5.000297 192.168.2.204:59602 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:21661 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x828C5366  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1837051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:00.000062 192.168.2.204:54970 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:28009 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xDBBB76EA  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1842051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-55.001566 192.168.2.204:50154 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:62395 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xD136DCB6  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1847053 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-50.000051 192.168.2.204:45304 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:54291 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xF1449680  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1852051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-45.000877 192.168.2.204:37962 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:63948 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3C72AFD0  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1857052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-40.000862 192.168.2.204:34742 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:31439 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x46DB136B  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1862052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-35.000895 192.168.2.204:58706 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:4159 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7D096D13  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1867052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-30.000740 192.168.2.204:49506 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:6081 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x47758775  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1872052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-25.000061 192.168.2.204:45666 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:11916 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE7698AB7  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1877051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-20.000833 192.168.2.204:41982 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:4735 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5311A5BB  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1882052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-15.000452 192.168.2.204:36896 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:56867 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3E1B1568  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1887051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-10.000238 192.168.2.204:60252 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:38798 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1D30495D  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1892051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-5.000573 192.168.2.204:55922 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:32900 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xEE2472DF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1897051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-23:-5.659025 192.168.2.203:23 -> 192.168.2.204:50702
+TCP TTL:64 TOS:0x10 ID:12716 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x72DE832  Ack: 0x4B528F1B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2024838 1897709 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-23:-2.857224 192.168.2.203:23 -> 192.168.2.204:50702
+TCP TTL:64 TOS:0x10 ID:12725 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x72DE869  Ack: 0x4B528F2D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2028036 1897837 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:00.000575 192.168.2.204:50858 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:61858 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5C49F446  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1902052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-58.295661 192.168.2.203:23 -> 192.168.2.204:50702
+TCP TTL:64 TOS:0x10 ID:12733 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x72DE8A3  Ack: 0x4B528F3A  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2031474 1904346 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-55.000581 192.168.2.204:44292 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:33422 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xCD139BE2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1907052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-50.000244 192.168.2.204:39960 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:48646 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4C1592F5  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1912051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-45.000134 192.168.2.204:35094 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:52749 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5B148E76  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1917051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-40.001340 192.168.2.204:59178 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:42732 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x2BE7F2E8  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1922052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-36.370547 192.168.2.203:23 -> 192.168.2.204:37088
+TCP TTL:64 TOS:0x10 ID:27172 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x55C222A3  Ack: 0x616A1A5F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2053549 1926422 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-35.001146 192.168.2.204:54704 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:30563 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x385210EF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1927052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-35.990481 192.168.2.203:23 -> 192.168.2.204:44840
+TCP TTL:64 TOS:0x10 ID:64562 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xE296AD52  Ack: 0x1DE189AF  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2055169 1928040 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-32.039722 192.168.2.203:23 -> 192.168.2.204:37088
+TCP TTL:64 TOS:0x10 ID:27181 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x55C222DA  Ack: 0x616A1A71  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2057218 1926549 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-30.000683 192.168.2.204:50718 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:60035 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xC5A49190  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1932051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-25.001087 192.168.2.204:46746 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:38640 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xA928186C  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1937052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-20.000187 192.168.2.204:43340 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:51669 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4FFB6BF6  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1942051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-20.931758 192.168.2.203:23 -> 192.168.2.204:44782
+TCP TTL:64 TOS:0x10 ID:53803 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x8CDDAC9A  Ack: 0x661CBE1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2070110 1939764 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-16.919096 192.168.2.203:23 -> 192.168.2.204:44782
+TCP TTL:64 TOS:0x10 ID:53811 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x8CDDACD2  Ack: 0x661CBEE  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2074098 1943135 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-16.925034 192.168.2.203:23 -> 192.168.2.204:40692
+TCP TTL:64 TOS:0x10 ID:34681 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x859B1CBB  Ack: 0x187B6C2B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2074104 1946975 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-15.000482 192.168.2.204:38322 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:17307 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6886F630  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1947051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-10.000677 192.168.2.204:60826 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:46806 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1F427FE2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1952052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-5.000558 192.168.2.204:55176 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:22001 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7B7C894A  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1957051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-5.766306 192.168.2.203:23 -> 192.168.2.204:52600
+TCP TTL:64 TOS:0x10 ID:14085 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xCF28F1C1  Ack: 0x66B8315B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2084945 1957817 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-5.830327 192.168.2.203:23 -> 192.168.2.204:52914
+TCP TTL:64 TOS:0x10 ID:14981 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x14B6FE1B  Ack: 0xDC8A8691  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2085009 1955842 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-3.500230 192.168.2.203:23 -> 192.168.2.204:47940
+TCP TTL:64 TOS:0x10 ID:32411 IpLen:20 DgmLen:85 DF
+***AP*** Seq: 0x9ABD09B  Ack: 0x9D2B87D9  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2086678 1959550 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:00.000405 192.168.2.204:49020 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:13413 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE42DC426  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1962051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-55.000801 192.168.2.204:43666 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:63246 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3961F4C2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.000501 192.168.2.204:37476 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:23615 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xF31E4B6C  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1972051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.102378 192.168.2.203:23 -> 192.168.2.204:33008
+TCP TTL:64 TOS:0x10 ID:3150 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x78F2E1CA  Ack: 0x8076F4E6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2099281 1969462 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.473872 192.168.2.203:23 -> 192.168.2.204:42776
+TCP TTL:64 TOS:0x10 ID:18536 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x8728A0F0  Ack: 0xE6F4B6CA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2099652 1972524 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.585782 192.168.2.203:23 -> 192.168.2.204:42006
+TCP TTL:64 TOS:0x10 ID:34937 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x247C759C  Ack: 0x915710F0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2099764 1969639 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-45.001180 192.168.2.204:57448 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:44013 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xECC88131  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1977052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-40.000696 192.168.2.204:50288 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:55874 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x8ADAE426  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1982052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.000481 192.168.2.204:44578 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:44627 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1886FFB8  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1987051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.194206 192.168.2.203:23 -> 192.168.2.204:59972
+TCP TTL:64 TOS:0x10 ID:752 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x9BA11DDD  Ack: 0xE47CF012  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2114373 1983966 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.405976 192.168.2.203:23 -> 192.168.2.204:39776
+TCP TTL:64 TOS:0x10 ID:43340 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xEF058A53  Ack: 0x281B9BEF  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2114584 1987455 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.497897 192.168.2.203:23 -> 192.168.2.204:34556
+TCP TTL:64 TOS:0x10 ID:7590 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x889729FF  Ack: 0xBDA17F1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2114676 1983828 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-30.000170 192.168.2.204:37690 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:60060 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1ED08FEF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1992051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-25.000870 192.168.2.204:58168 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:47223 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x161FC08B  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1997052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.001083 192.168.2.204:51692 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:18857 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xC70AC52D  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 2002052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.747342 192.168.2.203:23 -> 192.168.2.204:50756
+TCP TTL:64 TOS:0x10 ID:6437 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xEED34386  Ack: 0x9250E23C  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2129926 1999723 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.888491 192.168.2.203:23 -> 192.168.2.204:52076
+TCP TTL:64 TOS:0x10 ID:23093 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x21D92B8A  Ack: 0x81CB4BE5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2130067 1999868 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.893896 192.168.2.203:23 -> 192.168.2.204:52074
+TCP TTL:64 TOS:0x10 ID:28423 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xB65B2046  Ack: 0xC720991B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2130072 1999868 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-5.337061 192.168.2.203:23 -> 192.168.2.204:47058
+TCP TTL:64 TOS:0x10 ID:33575 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xC45822F8  Ack: 0x8DC20183  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2144516 2017388 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-5.360117 192.168.2.203:23 -> 192.168.2.204:47056
+TCP TTL:64 TOS:0x10 ID:17748 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x68A0E51C  Ack: 0x39162FB0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2144538 2014751 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-5.465718 192.168.2.203:23 -> 192.168.2.204:47020
+TCP TTL:64 TOS:0x10 ID:61037 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x9857BAB  Ack: 0xDEBC60C1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2144644 2014856 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-50.258708 192.168.2.203:23 -> 192.168.2.204:47146
+TCP TTL:64 TOS:0x10 ID:10414 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x3F9D0012  Ack: 0x76408796  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2159437 2032309 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-50.270254 192.168.2.203:23 -> 192.168.2.204:47144
+TCP TTL:64 TOS:0x10 ID:14909 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x78CAEE8C  Ack: 0x2AA05CFC  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2159449 2029570 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-50.274164 192.168.2.203:23 -> 192.168.2.204:47140
+TCP TTL:64 TOS:0x10 ID:59932 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x2A063EA3  Ack: 0x99C1FE14  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2159452 2029574 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-35.499976 192.168.2.203:23 -> 192.168.2.204:47228
+TCP TTL:64 TOS:0x10 ID:48434 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xDD36B5E6  Ack: 0x6D657989  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2174678 2044675 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-35.564239 192.168.2.203:23 -> 192.168.2.204:47234
+TCP TTL:64 TOS:0x10 ID:59936 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x1489E82D  Ack: 0x59B9A69B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2174742 2045538 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-35.973152 192.168.2.203:23 -> 192.168.2.204:47268
+TCP TTL:64 TOS:0x10 ID:34509 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x9102A4EF  Ack: 0xD1B45D90  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2175152 2045040 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-19.949203 192.168.2.203:23 -> 192.168.2.204:47354
+TCP TTL:64 TOS:0x10 ID:106 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x48F14944  Ack: 0x39D55CB  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2191128 2060860 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-19.966154 192.168.2.203:23 -> 192.168.2.204:47356
+TCP TTL:64 TOS:0x10 ID:17448 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x4AF90D06  Ack: 0xE6474CCA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2191144 2060885 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-18.064759 192.168.2.203:23 -> 192.168.2.204:47358
+TCP TTL:64 TOS:0x10 ID:13307 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xEC767CAD  Ack: 0x6CB03E38  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2191243 2060980 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-45.763180 192.168.2.204:23 -> 192.168.2.201:41440
+TCP TTL:64 TOS:0x10 ID:53267 IpLen:20 DgmLen:69 DF
+***AP*** Seq: 0xDB838164  Ack: 0x54F8A7E4  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1137814 1516981 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-45.795066 192.168.2.204:23 -> 192.168.2.201:41444
+TCP TTL:64 TOS:0x10 ID:54285 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x8C388389  Ack: 0x8F2298D5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1137846 1514250 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-43.894018 192.168.2.204:23 -> 192.168.2.201:41450
+TCP TTL:64 TOS:0x10 ID:64683 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x8C37A9C9  Ack: 0xA5332EBC  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1139945 1519113 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-30.843316 192.168.2.204:23 -> 192.168.2.201:41550
+TCP TTL:64 TOS:0x10 ID:50977 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x8D23BA3B  Ack: 0xED161A1F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1152894 1528730 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-29.841659 192.168.2.204:23 -> 192.168.2.201:41606
+TCP TTL:64 TOS:0x10 ID:21064 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x4FD6C452  Ack: 0xD346EE42  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1153893 1530812 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-29.845069 192.168.2.204:23 -> 192.168.2.201:41566
+TCP TTL:64 TOS:0x10 ID:63192 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xBDB3749B  Ack: 0x8358DFBA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1153896 1530820 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-13.372479 192.168.2.204:23 -> 192.168.2.201:41694
+TCP TTL:64 TOS:0x10 ID:3112 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x3A47BD28  Ack: 0x3A51399F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1169424 1548590 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-13.414599 192.168.2.204:23 -> 192.168.2.201:41688
+TCP TTL:64 TOS:0x10 ID:6724 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x818CAAFC  Ack: 0x21D32C7D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1169466 1545797 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-35:-11.125680 192.168.2.204:23 -> 192.168.2.201:41700
+TCP TTL:64 TOS:0x10 ID:13315 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xD62E426  Ack: 0x47A4693A  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1171177 1546779 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-58.637091 192.168.2.204:23 -> 192.168.2.201:41726
+TCP TTL:64 TOS:0x10 ID:52785 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x220922F0  Ack: 0x4CA6C6C3  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1184688 1560435 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-58.641408 192.168.2.204:23 -> 192.168.2.201:41732
+TCP TTL:64 TOS:0x10 ID:17516 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x8292B5FD  Ack: 0x44809BB5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1184692 1560437 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-58.675790 192.168.2.204:23 -> 192.168.2.201:41722
+TCP TTL:64 TOS:0x10 ID:37912 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x21F880C9  Ack: 0xB8E41334  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1184727 1560472 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-42.616736 192.168.2.204:23 -> 192.168.2.201:41948
+TCP TTL:64 TOS:0x10 ID:38743 IpLen:20 DgmLen:69 DF
+***AP*** Seq: 0x6C13D40E  Ack: 0x5DED83C0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1200668 1579836 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-42.672657 192.168.2.204:23 -> 192.168.2.201:41950
+TCP TTL:64 TOS:0x10 ID:9000 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xD4B5683B  Ack: 0x5462D6C6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1200724 1579891 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-42.787349 192.168.2.204:23 -> 192.168.2.201:41878
+TCP TTL:64 TOS:0x10 ID:62054 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x6ECBDC61  Ack: 0x1BAF5F6B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1200838 1580006 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-27.747128 192.168.2.204:23 -> 192.168.2.201:41986
+TCP TTL:64 TOS:0x10 ID:28518 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xE815EE3B  Ack: 0x211D0AF6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1215798 1594966 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-26.513496 192.168.2.204:23 -> 192.168.2.201:41970
+TCP TTL:64 TOS:0x10 ID:58043 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x335A97F9  Ack: 0x55F59A50  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1216565 1593219 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-26.523422 192.168.2.204:23 -> 192.168.2.201:41966
+TCP TTL:64 TOS:0x10 ID:56065 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x9C5BAFB1  Ack: 0x2AC7DB3D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1216575 1595741 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-12.996624 192.168.2.204:23 -> 192.168.2.201:42082
+TCP TTL:64 TOS:0x10 ID:12403 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x1D769517  Ack: 0xA7B20F10  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1231048 1606321 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-11.406346 192.168.2.204:23 -> 192.168.2.202:57914
+TCP TTL:64 TOS:0x10 ID:47482 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x182C20CA  Ack: 0x4B3F8BBC  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1231458 1484296 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-34:-11.522072 192.168.2.204:23 -> 192.168.2.201:42124
+TCP TTL:64 TOS:0x10 ID:12739 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xDF3B83FD  Ack: 0xB6C4A7C6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1231573 1608435 
+
+[**] [1:1000434256:1] Telnet BusyBox WGET Mirai Malware!" [**]
+[Priority: 0] 
+01/01--3:-33:-58.465255 192.168.2.204:23 -> 192.168.2.100:44507
+TCP TTL:64 TOS:0x10 ID:32615 IpLen:20 DgmLen:284 DF
+***AP*** Seq: 0xA7BC6C2B  Ack: 0x5EF860C5  Win: 0x479  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1244516 1903860 
+
+[**] [1:1000434256:1] Telnet BusyBox WGET Mirai Malware!" [**]
+[Priority: 0] 
+01/01--3:-33:-58.506013 192.168.2.204:23 -> 192.168.2.100:44507
+TCP TTL:64 TOS:0x10 ID:32616 IpLen:20 DgmLen:487 DF
+***AP*** Seq: 0xA7BC6D13  Ack: 0x5EF860C5  Win: 0x479  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1244557 1903901 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-57.914820 192.168.2.204:23 -> 192.168.2.202:58090
+TCP TTL:64 TOS:0x10 ID:35543 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x85D663BC  Ack: 0x748ED755  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1245966 1496116 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-57.915890 192.168.2.204:23 -> 192.168.2.202:58084
+TCP TTL:64 TOS:0x10 ID:10757 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x2A49C0EB  Ack: 0xA1C3FC4D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1245967 1496116 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-57.965325 192.168.2.204:23 -> 192.168.2.201:42292
+TCP TTL:64 TOS:0x10 ID:30285 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xDB769CCF  Ack: 0xAC3C8A20  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1246016 1622496 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-55.384800 192.168.2.203:23 -> 192.168.2.204:39544
+TCP TTL:64 TOS:0x10 ID:36082 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x77D462DB  Ack: 0xBF3455E  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1374563 1247435 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-53.222805 192.168.2.203:23 -> 192.168.2.204:39554
+TCP TTL:64 TOS:0x10 ID:32773 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xBB668D8C  Ack: 0x81E7F383  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1376401 1249273 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-53.245432 192.168.2.203:23 -> 192.168.2.204:39552
+TCP TTL:64 TOS:0x10 ID:58225 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x3B31208  Ack: 0x1DBA45E0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1376424 1249296 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-40.715400 192.168.2.203:23 -> 192.168.2.204:39612
+TCP TTL:64 TOS:0x10 ID:26304 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x9FA4270  Ack: 0xFBC3939E  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1389893 1259578 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-40.742398 192.168.2.203:23 -> 192.168.2.204:39592
+TCP TTL:64 TOS:0x10 ID:17374 IpLen:20 DgmLen:69 DF
+***AP*** Seq: 0xBF565EFC  Ack: 0x1BEE4156  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1389921 1262791 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-39.209366 192.168.2.203:23 -> 192.168.2.204:39582
+TCP TTL:64 TOS:0x10 ID:35125 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x91569E95  Ack: 0xAE8185ED  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1390388 1260860 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-25.076070 192.168.2.203:23 -> 192.168.2.204:39700
+TCP TTL:64 TOS:0x10 ID:63228 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x839DAC41  Ack: 0xE6918586  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1404254 1273546 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-25.357889 192.168.2.203:23 -> 192.168.2.204:39708
+TCP TTL:64 TOS:0x10 ID:40803 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x78DC2F4  Ack: 0xEE9B76EA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1404536 1273585 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-25.575684 192.168.2.203:23 -> 192.168.2.204:39676
+TCP TTL:64 TOS:0x10 ID:8730 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xB08F6D7A  Ack: 0x98B3204F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1404754 1273730 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-10.355295 192.168.2.203:23 -> 192.168.2.204:39802
+TCP TTL:64 TOS:0x10 ID:28465 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x2723FE54  Ack: 0xF171822B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1419534 1290012 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-10.382465 192.168.2.203:23 -> 192.168.2.204:39810
+TCP TTL:64 TOS:0x10 ID:54774 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xF4F47CF  Ack: 0x6182A6D5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1419561 1290067 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-33:-10.604304 192.168.2.203:23 -> 192.168.2.204:39852
+TCP TTL:64 TOS:0x10 ID:36703 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x9543113D  Ack: 0x835E99A1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1419782 1290284 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-20.249092 192.168.2.204:50216 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:13977 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xD6B8F8C5  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1822300 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-15.000063 192.168.2.204:40936 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:20690 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7FD7B039  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1827051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-10.000395 192.168.2.204:35874 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:57271 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x97C02BC4  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1832051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:-5.000297 192.168.2.204:59602 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:21661 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x828C5366  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1837051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-24:00.000062 192.168.2.204:54970 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:28009 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xDBBB76EA  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1842051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-55.001566 192.168.2.204:50154 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:62395 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xD136DCB6  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1847053 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-50.000051 192.168.2.204:45304 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:54291 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xF1449680  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1852051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-45.000877 192.168.2.204:37962 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:63948 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3C72AFD0  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1857052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-40.000862 192.168.2.204:34742 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:31439 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x46DB136B  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1862052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-35.000895 192.168.2.204:58706 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:4159 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7D096D13  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1867052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-30.000740 192.168.2.204:49506 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:6081 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x47758775  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1872052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-25.000061 192.168.2.204:45666 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:11916 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE7698AB7  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1877051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-20.000833 192.168.2.204:41982 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:4735 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5311A5BB  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1882052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-15.000452 192.168.2.204:36896 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:56867 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3E1B1568  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1887051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-10.000238 192.168.2.204:60252 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:38798 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1D30495D  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1892051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:-5.000573 192.168.2.204:55922 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:32900 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xEE2472DF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1897051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-23:-5.659025 192.168.2.203:23 -> 192.168.2.204:50702
+TCP TTL:64 TOS:0x10 ID:12716 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x72DE832  Ack: 0x4B528F1B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2024838 1897709 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-23:-2.857224 192.168.2.203:23 -> 192.168.2.204:50702
+TCP TTL:64 TOS:0x10 ID:12725 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x72DE869  Ack: 0x4B528F2D  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2028036 1897837 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-23:00.000575 192.168.2.204:50858 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:61858 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5C49F446  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1902052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-58.295661 192.168.2.203:23 -> 192.168.2.204:50702
+TCP TTL:64 TOS:0x10 ID:12733 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x72DE8A3  Ack: 0x4B528F3A  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2031474 1904346 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-55.000581 192.168.2.204:44292 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:33422 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xCD139BE2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1907052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-50.000244 192.168.2.204:39960 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:48646 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4C1592F5  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1912051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-45.000134 192.168.2.204:35094 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:52749 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x5B148E76  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1917051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-40.001340 192.168.2.204:59178 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:42732 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x2BE7F2E8  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1922052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-36.370547 192.168.2.203:23 -> 192.168.2.204:37088
+TCP TTL:64 TOS:0x10 ID:27172 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x55C222A3  Ack: 0x616A1A5F  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2053549 1926422 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-35.001146 192.168.2.204:54704 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:30563 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x385210EF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1927052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-35.990481 192.168.2.203:23 -> 192.168.2.204:44840
+TCP TTL:64 TOS:0x10 ID:64562 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xE296AD52  Ack: 0x1DE189AF  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2055169 1928040 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-32.039722 192.168.2.203:23 -> 192.168.2.204:37088
+TCP TTL:64 TOS:0x10 ID:27181 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x55C222DA  Ack: 0x616A1A71  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2057218 1926549 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-30.000683 192.168.2.204:50718 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:60035 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xC5A49190  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1932051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-25.001087 192.168.2.204:46746 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:38640 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xA928186C  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1937052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-20.000187 192.168.2.204:43340 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:51669 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x4FFB6BF6  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1942051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-20.931758 192.168.2.203:23 -> 192.168.2.204:44782
+TCP TTL:64 TOS:0x10 ID:53803 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x8CDDAC9A  Ack: 0x661CBE1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2070110 1939764 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-16.919096 192.168.2.203:23 -> 192.168.2.204:44782
+TCP TTL:64 TOS:0x10 ID:53811 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x8CDDACD2  Ack: 0x661CBEE  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2074098 1943135 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-16.925034 192.168.2.203:23 -> 192.168.2.204:40692
+TCP TTL:64 TOS:0x10 ID:34681 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x859B1CBB  Ack: 0x187B6C2B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2074104 1946975 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-15.000482 192.168.2.204:38322 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:17307 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6886F630  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1947051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-10.000677 192.168.2.204:60826 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:46806 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1F427FE2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1952052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:-5.000558 192.168.2.204:55176 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:22001 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x7B7C894A  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1957051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-5.766306 192.168.2.203:23 -> 192.168.2.204:52600
+TCP TTL:64 TOS:0x10 ID:14085 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xCF28F1C1  Ack: 0x66B8315B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2084945 1957817 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-5.830327 192.168.2.203:23 -> 192.168.2.204:52914
+TCP TTL:64 TOS:0x10 ID:14981 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x14B6FE1B  Ack: 0xDC8A8691  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2085009 1955842 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-22:-3.500230 192.168.2.203:23 -> 192.168.2.204:47940
+TCP TTL:64 TOS:0x10 ID:32411 IpLen:20 DgmLen:85 DF
+***AP*** Seq: 0x9ABD09B  Ack: 0x9D2B87D9  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2086678 1959550 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-22:00.000405 192.168.2.204:49020 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:13413 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xE42DC426  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1962051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-55.000801 192.168.2.204:43666 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:63246 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x3961F4C2  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1967052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.000501 192.168.2.204:37476 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:23615 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xF31E4B6C  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1972051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.102378 192.168.2.203:23 -> 192.168.2.204:33008
+TCP TTL:64 TOS:0x10 ID:3150 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x78F2E1CA  Ack: 0x8076F4E6  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2099281 1969462 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.473872 192.168.2.203:23 -> 192.168.2.204:42776
+TCP TTL:64 TOS:0x10 ID:18536 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x8728A0F0  Ack: 0xE6F4B6CA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2099652 1972524 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-50.585782 192.168.2.203:23 -> 192.168.2.204:42006
+TCP TTL:64 TOS:0x10 ID:34937 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x247C759C  Ack: 0x915710F0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2099764 1969639 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-45.001180 192.168.2.204:57448 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:44013 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xECC88131  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1977052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-40.000696 192.168.2.204:50288 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:55874 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x8ADAE426  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1982052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.000481 192.168.2.204:44578 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:44627 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1886FFB8  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1987051 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.194206 192.168.2.203:23 -> 192.168.2.204:59972
+TCP TTL:64 TOS:0x10 ID:752 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x9BA11DDD  Ack: 0xE47CF012  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2114373 1983966 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.405976 192.168.2.203:23 -> 192.168.2.204:39776
+TCP TTL:64 TOS:0x10 ID:43340 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xEF058A53  Ack: 0x281B9BEF  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2114584 1987455 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-35.497897 192.168.2.203:23 -> 192.168.2.204:34556
+TCP TTL:64 TOS:0x10 ID:7590 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0x889729FF  Ack: 0xBDA17F1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2114676 1983828 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-30.000170 192.168.2.204:37690 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:60060 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x1ED08FEF  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1992051 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-25.000870 192.168.2.204:58168 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:47223 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x161FC08B  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 1997052 0 NOP WS: 5 
+
+[**] [1:100000156:1] SYN FLOOD DETECTED!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.001083 192.168.2.204:51692 -> 192.168.2.201:80
+TCP TTL:64 TOS:0x0 ID:18857 IpLen:20 DgmLen:60 DF
+******S* Seq: 0xC70AC52D  Ack: 0x0  Win: 0x7210  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 2002052 0 NOP WS: 5 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.747342 192.168.2.203:23 -> 192.168.2.204:50756
+TCP TTL:64 TOS:0x10 ID:6437 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xEED34386  Ack: 0x9250E23C  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2129926 1999723 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.888491 192.168.2.203:23 -> 192.168.2.204:52076
+TCP TTL:64 TOS:0x10 ID:23093 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x21D92B8A  Ack: 0x81CB4BE5  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2130067 1999868 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-20.893896 192.168.2.203:23 -> 192.168.2.204:52074
+TCP TTL:64 TOS:0x10 ID:28423 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xB65B2046  Ack: 0xC720991B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2130072 1999868 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-5.337061 192.168.2.203:23 -> 192.168.2.204:47058
+TCP TTL:64 TOS:0x10 ID:33575 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xC45822F8  Ack: 0x8DC20183  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2144516 2017388 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-5.360117 192.168.2.203:23 -> 192.168.2.204:47056
+TCP TTL:64 TOS:0x10 ID:17748 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x68A0E51C  Ack: 0x39162FB0  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2144538 2014751 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-21:-5.465718 192.168.2.203:23 -> 192.168.2.204:47020
+TCP TTL:64 TOS:0x10 ID:61037 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x9857BAB  Ack: 0xDEBC60C1  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2144644 2014856 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-50.258708 192.168.2.203:23 -> 192.168.2.204:47146
+TCP TTL:64 TOS:0x10 ID:10414 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x3F9D0012  Ack: 0x76408796  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2159437 2032309 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-50.270254 192.168.2.203:23 -> 192.168.2.204:47144
+TCP TTL:64 TOS:0x10 ID:14909 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x78CAEE8C  Ack: 0x2AA05CFC  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2159449 2029570 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-50.274164 192.168.2.203:23 -> 192.168.2.204:47140
+TCP TTL:64 TOS:0x10 ID:59932 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x2A063EA3  Ack: 0x99C1FE14  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2159452 2029574 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-35.499976 192.168.2.203:23 -> 192.168.2.204:47228
+TCP TTL:64 TOS:0x10 ID:48434 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xDD36B5E6  Ack: 0x6D657989  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2174678 2044675 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-35.564239 192.168.2.203:23 -> 192.168.2.204:47234
+TCP TTL:64 TOS:0x10 ID:59936 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x1489E82D  Ack: 0x59B9A69B  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2174742 2045538 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-35.973152 192.168.2.203:23 -> 192.168.2.204:47268
+TCP TTL:64 TOS:0x10 ID:34509 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x9102A4EF  Ack: 0xD1B45D90  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2175152 2045040 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-19.949203 192.168.2.203:23 -> 192.168.2.204:47354
+TCP TTL:64 TOS:0x10 ID:106 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x48F14944  Ack: 0x39D55CB  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2191128 2060860 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-19.966154 192.168.2.203:23 -> 192.168.2.204:47356
+TCP TTL:64 TOS:0x10 ID:17448 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0x4AF90D06  Ack: 0xE6474CCA  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2191144 2060885 
+
+[**] [1:100000157:1] Telnet Credential Brute Force Login Attack!" [**]
+[Priority: 0] 
+01/01--3:-20:-18.064759 192.168.2.203:23 -> 192.168.2.204:47358
+TCP TTL:64 TOS:0x10 ID:13307 IpLen:20 DgmLen:87 DF
+***AP*** Seq: 0xEC767CAD  Ack: 0x6CB03E38  Win: 0x389  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 2191243 2060980 
+

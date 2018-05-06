@@ -1,0 +1,20 @@
+# $Id: local.rules,v 1.11 2004/07/23 20:15:44 bmc Exp $
+# ----------------
+# LOCAL RULES
+# ----------------
+# This file intentionally does not come with signatures.  Put your local
+# additions here.
+
+#alert icmp any any -> any any (msg:"SMURF ATTACK Detected"; itype:8; threshold: type limit, track by_src, count 5, seconds 8; sid:10000011545; rev:001;)
+#alert icmp any any -> any any (msg:"ICMP PING Detected"; itype:8; sid:10000012; rev:001;)
+#alert icmp any any -> any any (msg:"ICMP PING Detected from Windows Machine"; itype:8; ttl:120-; sid:10000013; rev:001;)
+#alert tcp any any -> any 80 (msg:"HTTP Request Packet Contains 'pass'"; content: "pass"; sid:100000005; rev:001;)
+alert tcp any any -> any any (msg:"XSS Detected"; pcre:"/((\%3C)|<)((\%2F)|\/)*[a-z0-9\%]+((\%3E)|>)/i"; sid:100000006; rev:001;)
+alert tcp any any -> any 80 (msg: SYN FLOOD DETECTED!";  flags: S; flow: stateless; threshold: type both, track by_src, count 5, seconds 5; sid:100000156; rev:001;) 
+alert tcp any 23 -> any any (msg: Telnet Credential Brute Force Login Attack!"; content: "Logon failure"; flow: established; threshold: type limit, track by_src, count 3, seconds 15; sid:100000157; rev:001;)
+
+#alert icmp any any -> any any (dsize: > 1500; msg:"Ping of Death ATTACK Detected"; itype:8; threshold: type limit, track by_src, count 5, seconds 8; sid:10000011553536; rev:001;)
+
+
+
+
